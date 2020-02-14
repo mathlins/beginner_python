@@ -1,4 +1,4 @@
-#Iniciante em programação
+# Iniciante em programação
 
 Como um ***`iniciante em programação em Python`***, crio este repositório para testes e programas tão simples como respirar.
 
@@ -12,4 +12,4 @@ Então, não tenho dúvidas do que quero!
 - [x] Perseverança;
 
 E para mim, o mais importante. .
-##***`Foco!`***
+## ***`Foco!`***
